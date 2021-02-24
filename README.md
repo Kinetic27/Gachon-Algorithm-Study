@@ -23,7 +23,7 @@
 
 ## 3. 그룹 가입 신청
 
-[ttps://www.acmicpc.net/group/member/10434](https://www.acmicpc.net/group/member/10434)에 들어가서 가입 신청을 눌러줘
+[https://www.acmicpc.net/group/member/10434](https://www.acmicpc.net/group/member/10434)에 들어가서 가입 신청을 눌러줘
 내가 가끔식 확인하는데 확인 못하면 카톡으로 불러줘!
 
 ## 4. 팁
